@@ -30,6 +30,10 @@ You can use
 
 ## Add
 
+```
+todo -a <task>
+```
+
 For example, to add a new todo, you would run the following command:
 
 ```
