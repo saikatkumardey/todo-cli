@@ -1,6 +1,6 @@
 # Todo App
 
-A simple todo app that allows you to add, delete, and mark todos as complete or incomplete.
+![Todo](app-icon.png) A simple todo app that allows you to add, delete, and mark todos as complete or incomplete.
 
 ## Installation
 
