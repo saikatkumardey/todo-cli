@@ -33,7 +33,7 @@ You can use
 For example, to add a new todo, you would run the following command:
 
 ```
-todo -a "Buy groceries
+todo -a "Buy groceries"
 ```
 
 ## Delete
